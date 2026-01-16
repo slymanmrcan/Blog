@@ -1,24 +1,15 @@
-# blog-md
+# Blog
 
-Minimal Hugo blog with a soft-dark custom theme.
+Minimal Hugo blog with a neon-analog theme.
 
-## Add posts
-Create Markdown files in `content/posts`:
+## Structure
+- Posts: `content/posts/*.md`
+- Layouts: `layouts/`
+- Styles: `static/css/main.css`
 
-```md
----
-title: "First post"
-date: 2024-05-01
-tags: ["notes", "drafts"]
----
+## Run
+- `hugo server -D`
+- Open `http://localhost:1313`
 
-Your content here.
-```
-
-## Configure
-- Update `baseURL` and `title` in `hugo.toml`.
-- Change `params.tagline` and `params.description` to match your tone.
-
-## GitHub Pages
-1) Push to `main`.
-2) In repo settings, enable GitHub Pages with GitHub Actions.
+## Deploy (GitHub Pages)
+- Push to `main` to build and publish to `gh-pages`.
