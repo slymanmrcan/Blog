@@ -1,15 +1,15 @@
 # Blog
 
-Minimal Hugo blog with a neon-analog theme.
+Minimal Hugo blog (neon-analog theme).
 
-## Structure
-- Posts: `content/posts/*.md`
-- Layouts: `layouts/`
-- Styles: `static/css/main.css`
+## Yapı
+- Yazılar: `content/posts/*.md`
+- Tasarım: `layouts/`
+- Stil: `static/css/main.css`
 
-## Run
-- `hugo server -D`
-- Open `http://localhost:1313`
+## Çalıştır
+- `hugo server -D --baseURL http://localhost:1313/`
+- Tarayıcı: `http://localhost:1313/`
 
 ## Deploy (GitHub Pages)
-- Push to `main` to build and publish to `gh-pages`.
+- `main` branch’e push → `gh-pages` branch’e yayınlanır.
