@@ -1,3 +1,20 @@
+---
+title: "TempleOS: Bir Dahinin Tanrı'ya Yazdığı İşletim Sistemi"
+date: 2026-01-16T04:44:02+03:00
+categories: ["İşletim Sistemleri", "Yazılım Tarihi", "Sistem Programlama"]
+tags:
+  [
+    "TempleOS",
+    "TerryDavis",
+    "HolyC",
+    "Kernel",
+    "JIT",
+    "OSGeliştirme",
+    "Şizofreni",
+    "AçıkKaynak",
+  ]
+---
+
 # TempleOS: Bir Dahinin Tanrı'ya Yazdığı İşletim Sistemi
 
 ## Giriş: Bu Hikaye Neden Önemli?
