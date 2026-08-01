@@ -1,37 +1,15 @@
 {{ define "main" }}
 <section class="wrap">
-  <h1>{{ .Title }}</h1>
-  {{ $posts := shuffle .Pages }}
-  {{ $paginator := .Paginate $posts 5 }}
+  <header class="list-header">
+    <h1>{{ .Title }}</h1>
+    <p class="meta">{{ len .Pages }} yazı</p>
+  </header>
+  {{ $paginator := .Paginate .Pages 5 }}
   <div class="post-list">
     {{ range $paginator.Pages }}
-      <article class="post-card">
-        <a class="post-card-link" href="{{ .RelPermalink }}">
-          <h2>{{ .Title }}</h2>
-          <p class="meta">{{ partial "post-date.html" . }}</p>
-          <p>{{ .Summary }}</p>
-        </a>
-      </article>
+      {{ partial "post-card.html" (dict "page" . "featured" false) }}
     {{ end }}
   </div>
-  <nav class="pagination">
-    {{ if $paginator.HasPrev }}
-      <a class="page-link prev" href="{{ $paginator.Prev.URL }}">← Geri</a>
-    {{ else }}
-      <span class="page-link prev disabled">← Geri</span>
-    {{ end }}
-    {{ range $paginator.Pagers }}
-      {{ if eq . $paginator }}
-        <span class="page-link current">{{ .PageNumber }}</span>
-      {{ else }}
-        <a class="page-link" href="{{ .URL }}">{{ .PageNumber }}</a>
-      {{ end }}
-    {{ end }}
-    {{ if $paginator.HasNext }}
-      <a class="page-link next" href="{{ $paginator.Next.URL }}">İleri →</a>
-    {{ else }}
-      <span class="page-link next disabled">İleri →</span>
-    {{ end }}
-  </nav>
+  {{ partial "pagination.html" $paginator }}
 </section>
 {{ end }}

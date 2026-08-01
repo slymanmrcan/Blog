@@ -4,54 +4,24 @@
     <p class="eyebrow">{{ .Site.Params.tagline }}</p>
     <h1>{{ .Site.Title }}</h1>
     <p class="lead">{{ .Site.Params.description }}</p>
+    <div class="hero-actions">
+      <a class="btn" href="{{ "posts/" | relURL }}">Tüm yazılar →</a>
+      <a class="btn ghost" href="{{ "index.xml" | relURL }}">RSS</a>
+    </div>
   </div>
 </section>
-<section class="wrap post-list">
-  <h2>Latest posts</h2>
+<section class="wrap">
+  <h2 class="section-title">Son Yazılar</h2>
   {{ $posts := where .Site.RegularPages "Section" "posts" }}
-  {{ $shuffled := shuffle $posts }}
-  {{ $paginator := .Paginate $shuffled 5 }}
-  {{ range $paginator.Pages }}
-    <article class="post-card">
-      <a class="post-card-link" href="{{ .RelPermalink }}">
-        <h3>{{ .Title }}</h3>
-        <div class="card-meta">
-          <span class="meta">{{ partial "post-date.html" . }}</span>
-          {{ with .Params.categories }}
-            <span class="card-category">{{ index . 0 }}</span>
-          {{ end }}
-        </div>
-        <p class="card-summary">{{ .Summary }}</p>
-        {{ with .Params.tags }}
-          <div class="card-tags">
-            {{ range first 3 . }}
-              <span class="card-tag">#{{ . }}</span>
-            {{ end }}
-          </div>
-        {{ end }}
-      </a>
-    </article>
-  {{ else }}
-    <p class="empty">No posts yet. Add Markdown files to <code>content/posts</code>.</p>
-  {{ end }}
-  <nav class="pagination">
-    {{ if $paginator.HasPrev }}
-      <a class="page-link prev" href="{{ $paginator.Prev.URL }}">← Geri</a>
+  {{ $paginator := .Paginate $posts 5 }}
+  <div class="post-list">
+    {{ range $i, $page := $paginator.Pages }}
+      {{ $featured := and (eq $paginator.PageNumber 1) (eq $i 0) }}
+      {{ partial "post-card.html" (dict "page" $page "featured" $featured) }}
     {{ else }}
-      <span class="page-link prev disabled">← Geri</span>
+      <p class="empty">Henüz yazı yok. <code>content/posts</code> klasörüne Markdown dosyası ekleyin.</p>
     {{ end }}
-    {{ range $paginator.Pagers }}
-      {{ if eq . $paginator }}
-        <span class="page-link current">{{ .PageNumber }}</span>
-      {{ else }}
-        <a class="page-link" href="{{ .URL }}">{{ .PageNumber }}</a>
-      {{ end }}
-    {{ end }}
-    {{ if $paginator.HasNext }}
-      <a class="page-link next" href="{{ $paginator.Next.URL }}">İleri →</a>
-    {{ else }}
-      <span class="page-link next disabled">İleri →</span>
-    {{ end }}
-  </nav>
+  </div>
+  {{ partial "pagination.html" $paginator }}
 </section>
 {{ end }}

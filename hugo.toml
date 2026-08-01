@@ -1,6 +1,7 @@
 baseURL = "https://slymanmrcan.github.io/Blog/"
 relativeURLs = false
-languageCode = "en"
+locale = "tr"
+defaultContentLanguage = "tr"
 title = "Suleyman Mercan"
 
 timeZone = "UTC"
@@ -11,16 +12,16 @@ ignoreFiles = ["\\.DS_Store$"]
   category = "categories"
 
 [params]
-  tagline = "Neon analog notes and longform stories."
-  description = "Suleyman Mercan's blog."
+  tagline = "Neon analog notlar ve uzun hikâyeler."
+  description = "Teknoloji tarihi, siber güvenlik ve internet kültürü üzerine Türkçe uzun format yazılar."
 
 [menu]
   [[menu.main]]
-    name = "Home"
+    name = "Ana Sayfa"
     url = ""
     weight = 1
   [[menu.main]]
-    name = "Posts"
+    name = "Yazılar"
     url = "posts/"
     weight = 2
 

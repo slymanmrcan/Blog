@@ -4,7 +4,14 @@
   {{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{
   end }}
 </title>
-<meta name="description" content="{{ .Site.Params.description }}" />
+{{ $desc := .Site.Params.description }}
+{{ if not .IsHome }}{{ with .Summary }}{{ $desc = . | plainify | truncate 160 }}{{ end }}{{ end }}
+<meta name="description" content="{{ $desc }}" />
+<meta name="theme-color" content="#141516" />
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}" />
+<meta property="og:description" content="{{ $desc }}" />
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
 <link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
 <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
 <link rel="alternate" type="application/rss+xml" href="{{ "index.xml" | relURL }}" title="{{ .Site.Title }}">

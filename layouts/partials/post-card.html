@@ -1,0 +1,22 @@
+{{ $page := .page }}
+{{ $featured := .featured }}
+<article class="post-card{{ if $featured }} featured{{ end }}">
+  <a class="post-card-link" href="{{ $page.RelPermalink }}">
+    {{ if $featured }}<span class="card-badge">★ Son yazı</span>{{ end }}
+    <div class="card-meta">
+      <span class="meta">{{ partial "post-date.html" $page }}</span>
+      {{ with $page.Params.categories }}
+        <span class="card-category">{{ index . 0 }}</span>
+      {{ end }}
+    </div>
+    <h3>{{ $page.Title }}</h3>
+    <p class="card-summary">{{ $page.Summary | plainify | truncate 240 }}</p>
+    {{ with $page.Params.tags }}
+      <div class="card-tags">
+        {{ range first 3 . }}
+          <span class="card-tag">#{{ . }}</span>
+        {{ end }}
+      </div>
+    {{ end }}
+  </a>
+</article>

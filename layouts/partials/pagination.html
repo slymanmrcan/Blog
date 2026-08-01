@@ -1,0 +1,20 @@
+{{ $paginator := . }}
+<nav class="pagination" aria-label="Sayfalama">
+  {{ if $paginator.HasPrev }}
+    <a class="page-link prev" href="{{ $paginator.Prev.URL }}">← Geri</a>
+  {{ else }}
+    <span class="page-link prev disabled">← Geri</span>
+  {{ end }}
+  {{ range $paginator.Pagers }}
+    {{ if eq . $paginator }}
+      <span class="page-link current" aria-current="page">{{ .PageNumber }}</span>
+    {{ else }}
+      <a class="page-link" href="{{ .URL }}">{{ .PageNumber }}</a>
+    {{ end }}
+  {{ end }}
+  {{ if $paginator.HasNext }}
+    <a class="page-link next" href="{{ $paginator.Next.URL }}">İleri →</a>
+  {{ else }}
+    <span class="page-link next disabled">İleri →</span>
+  {{ end }}
+</nav>

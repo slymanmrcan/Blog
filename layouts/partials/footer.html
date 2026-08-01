@@ -1,5 +1,10 @@
 <footer class="site-footer">
-  <div class="wrap">
-    <p>© {{ now.Format "2006" }} {{ .Site.Title }}. Built with Hugo.</p>
+  <div class="wrap footer-inner">
+    <p>© {{ now.Format "2006" }} {{ .Site.Title }}</p>
+    <p class="footer-links">
+      <a href="{{ "index.xml" | relURL }}">RSS</a>
+      <span class="footer-dot">·</span>
+      <span>Hugo ile inşa edildi</span>
+    </p>
   </div>
 </footer>

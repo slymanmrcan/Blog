@@ -1,0 +1,16 @@
+{{ define "main" }}
+<section class="wrap">
+  <header class="list-header">
+    <h1>{{ .Title }}</h1>
+    <p class="meta">{{ len .Data.Terms }} {{ if eq .Data.Plural "tags" }}etiket{{ else }}kategori{{ end }}</p>
+  </header>
+  <div class="term-cloud">
+    {{ range .Data.Terms.Alphabetical }}
+      <a class="term-chip" href="{{ .Page.RelPermalink }}">
+        {{ .Page.Title }}
+        <span class="term-count">{{ .Count }}</span>
+      </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

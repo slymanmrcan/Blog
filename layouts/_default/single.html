@@ -1,15 +1,18 @@
 {{ define "main" }}
+<div class="progress-wrap" aria-hidden="true">
+  <div class="progress-bar" id="progress-bar"></div>
+</div>
 <article class="wrap post">
   <div class="post-back">
     <a class="back-link" href="{{ "posts/" | relURL }}">← Listeye dön</a>
   </div>
   <header class="post-header">
-    <p class="eyebrow">{{ .Section | title }}</p>
+    <p class="eyebrow">{{ with .Params.categories }}{{ index . 0 }}{{ else }}Yazı{{ end }}</p>
     <h1>{{ .Title }}</h1>
     <div class="post-meta">
       <p class="meta">{{ partial "post-date.html" . }}</p>
       <span class="meta">·</span>
-      <p class="meta">{{ .ReadingTime }} min read</p>
+      <p class="meta">{{ .ReadingTime }} dk okuma</p>
     </div>
     {{ with .Params.tags }}
       <ul class="tags">
@@ -19,17 +22,34 @@
       </ul>
     {{ end }}
   </header>
-  {{ with .TableOfContents }}
-    <aside class="toc">
-      <p class="toc-title">Contents</p>
-      {{ . }}
-    </aside>
-  {{ end }}
-  <div class="post-body">
-    {{ .Content }}
-  </div>
-  <div class="post-footer">
-    <a class="nav-link" href="{{ "posts/" | relURL }}">← Listeye dön</a>
+  <div class="post-layout">
+    <div class="post-main">
+      <div class="post-body">
+        {{ .Content }}
+      </div>
+      <div class="post-footer">
+        <a class="nav-link" href="{{ "posts/" | relURL }}">← Listeye dön</a>
+      </div>
+    </div>
+    {{ with .TableOfContents }}
+      <aside class="toc">
+        <p class="toc-title">İçindekiler</p>
+        {{ . }}
+      </aside>
+    {{ end }}
   </div>
 </article>
+<script>
+  (function () {
+    var bar = document.getElementById("progress-bar");
+    if (!bar) return;
+    var update = function () {
+      var doc = document.documentElement;
+      var max = doc.scrollHeight - doc.clientHeight;
+      bar.style.width = max > 0 ? (doc.scrollTop / max) * 100 + "%" : "0%";
+    };
+    window.addEventListener("scroll", update, { passive: true });
+    update();
+  })();
+</script>
 {{ end }}
