@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Kategoriler on Suleyman Mercan</title>
-		<link>http://localhost:49304/categories/</link>
+		<link>http://localhost:1313/Blog/categories/</link>
 		<description>Recent content in Kategoriler on Suleyman Mercan</description>
 		<generator>Hugo</generator>
 		<language>tr</language>
@@ -12,299 +12,320 @@
 		
 			<lastBuildDate>Fri, 16 Jan 2026 04:44:02 +0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:49304/categories/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/Blog/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Aktivizm</title>
-				<link>http://localhost:49304/categories/aktivizm/</link>
+				<link>http://localhost:1313/Blog/categories/aktivizm/</link>
 				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
-				<guid>http://localhost:49304/categories/aktivizm/</guid>
+				<guid>http://localhost:1313/Blog/categories/aktivizm/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Bilim Tarihi</title>
-				<link>http://localhost:49304/categories/bilim-tarihi/</link>
+				<link>http://localhost:1313/Blog/categories/bilim-tarihi/</link>
 				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
-				<guid>http://localhost:49304/categories/bilim-tarihi/</guid>
+				<guid>http://localhost:1313/Blog/categories/bilim-tarihi/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Bilişim</title>
-				<link>http://localhost:49304/categories/bili%C5%9Fim/</link>
+				<link>http://localhost:1313/Blog/categories/bili%C5%9Fim/</link>
 				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
-				<guid>http://localhost:49304/categories/bili%C5%9Fim/</guid>
+				<guid>http://localhost:1313/Blog/categories/bili%C5%9Fim/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>İnternet Tarihi</title>
-				<link>http://localhost:49304/categories/internet-tarihi/</link>
+				<link>http://localhost:1313/Blog/categories/internet-tarihi/</link>
 				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
-				<guid>http://localhost:49304/categories/internet-tarihi/</guid>
+				<guid>http://localhost:1313/Blog/categories/internet-tarihi/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>İşletim Sistemleri</title>
+				<link>http://localhost:1313/Blog/categories/i%C5%9Fletim-sistemleri/</link>
+				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
+				<guid>http://localhost:1313/Blog/categories/i%C5%9Fletim-sistemleri/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Kadın Ve Teknoloji</title>
-				<link>http://localhost:49304/categories/kad%C4%B1n-ve-teknoloji/</link>
+				<link>http://localhost:1313/Blog/categories/kad%C4%B1n-ve-teknoloji/</link>
 				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
-				<guid>http://localhost:49304/categories/kad%C4%B1n-ve-teknoloji/</guid>
+				<guid>http://localhost:1313/Blog/categories/kad%C4%B1n-ve-teknoloji/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sistem Programlama</title>
+				<link>http://localhost:1313/Blog/categories/sistem-programlama/</link>
+				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
+				<guid>http://localhost:1313/Blog/categories/sistem-programlama/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Teknoloji Etiği</title>
-				<link>http://localhost:49304/categories/teknoloji-eti%C4%9Fi/</link>
+				<link>http://localhost:1313/Blog/categories/teknoloji-eti%C4%9Fi/</link>
 				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
-				<guid>http://localhost:49304/categories/teknoloji-eti%C4%9Fi/</guid>
+				<guid>http://localhost:1313/Blog/categories/teknoloji-eti%C4%9Fi/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Yazılım Tarihi</title>
+				<link>http://localhost:1313/Blog/categories/yaz%C4%B1l%C4%B1m-tarihi/</link>
+				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
+				<guid>http://localhost:1313/Blog/categories/yaz%C4%B1l%C4%B1m-tarihi/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Gelecek Bilimi</title>
-				<link>http://localhost:49304/categories/gelecek-bilimi/</link>
+				<link>http://localhost:1313/Blog/categories/gelecek-bilimi/</link>
 				<pubDate>Fri, 16 Jan 2026 04:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/gelecek-bilimi/</guid>
+				<guid>http://localhost:1313/Blog/categories/gelecek-bilimi/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Teknoloji Tarihi</title>
-				<link>http://localhost:49304/categories/teknoloji-tarihi/</link>
+				<link>http://localhost:1313/Blog/categories/teknoloji-tarihi/</link>
 				<pubDate>Fri, 16 Jan 2026 04:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/teknoloji-tarihi/</guid>
+				<guid>http://localhost:1313/Blog/categories/teknoloji-tarihi/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Yapay Zeka</title>
-				<link>http://localhost:49304/categories/yapay-zeka/</link>
+				<link>http://localhost:1313/Blog/categories/yapay-zeka/</link>
 				<pubDate>Fri, 16 Jan 2026 04:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/yapay-zeka/</guid>
+				<guid>http://localhost:1313/Blog/categories/yapay-zeka/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Donanım</title>
-				<link>http://localhost:49304/categories/donan%C4%B1m/</link>
+				<link>http://localhost:1313/Blog/categories/donan%C4%B1m/</link>
 				<pubDate>Fri, 16 Jan 2026 04:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/donan%C4%B1m/</guid>
+				<guid>http://localhost:1313/Blog/categories/donan%C4%B1m/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Rehber</title>
-				<link>http://localhost:49304/categories/rehber/</link>
+				<link>http://localhost:1313/Blog/categories/rehber/</link>
 				<pubDate>Fri, 16 Jan 2026 04:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/rehber/</guid>
+				<guid>http://localhost:1313/Blog/categories/rehber/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Ekonomi</title>
-				<link>http://localhost:49304/categories/ekonomi/</link>
+				<link>http://localhost:1313/Blog/categories/ekonomi/</link>
 				<pubDate>Fri, 16 Jan 2026 04:10:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/ekonomi/</guid>
+				<guid>http://localhost:1313/Blog/categories/ekonomi/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Mühendislik</title>
-				<link>http://localhost:49304/categories/m%C3%BChendislik/</link>
+				<link>http://localhost:1313/Blog/categories/m%C3%BChendislik/</link>
 				<pubDate>Fri, 16 Jan 2026 04:10:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/m%C3%BChendislik/</guid>
+				<guid>http://localhost:1313/Blog/categories/m%C3%BChendislik/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Hacker Kültürü</title>
-				<link>http://localhost:49304/categories/hacker-k%C3%BClt%C3%BCr%C3%BC/</link>
+				<link>http://localhost:1313/Blog/categories/hacker-k%C3%BClt%C3%BCr%C3%BC/</link>
 				<pubDate>Fri, 16 Jan 2026 04:00:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/hacker-k%C3%BClt%C3%BCr%C3%BC/</guid>
+				<guid>http://localhost:1313/Blog/categories/hacker-k%C3%BClt%C3%BCr%C3%BC/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>İnternet Gizemleri</title>
-				<link>http://localhost:49304/categories/internet-gizemleri/</link>
+				<link>http://localhost:1313/Blog/categories/internet-gizemleri/</link>
 				<pubDate>Fri, 16 Jan 2026 04:00:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/internet-gizemleri/</guid>
+				<guid>http://localhost:1313/Blog/categories/internet-gizemleri/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Kriptografi</title>
-				<link>http://localhost:49304/categories/kriptografi/</link>
+				<link>http://localhost:1313/Blog/categories/kriptografi/</link>
 				<pubDate>Fri, 16 Jan 2026 04:00:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/kriptografi/</guid>
+				<guid>http://localhost:1313/Blog/categories/kriptografi/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Sibernetik</title>
-				<link>http://localhost:49304/categories/sibernetik/</link>
+				<link>http://localhost:1313/Blog/categories/sibernetik/</link>
 				<pubDate>Fri, 16 Jan 2026 03:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/sibernetik/</guid>
+				<guid>http://localhost:1313/Blog/categories/sibernetik/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Sosyoloji</title>
-				<link>http://localhost:49304/categories/sosyoloji/</link>
+				<link>http://localhost:1313/Blog/categories/sosyoloji/</link>
 				<pubDate>Fri, 16 Jan 2026 03:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/sosyoloji/</guid>
+				<guid>http://localhost:1313/Blog/categories/sosyoloji/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>İnsan Hikâyeleri</title>
-				<link>http://localhost:49304/categories/insan-hik%C3%A2yeleri/</link>
+				<link>http://localhost:1313/Blog/categories/insan-hik%C3%A2yeleri/</link>
 				<pubDate>Fri, 16 Jan 2026 03:40:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/insan-hik%C3%A2yeleri/</guid>
+				<guid>http://localhost:1313/Blog/categories/insan-hik%C3%A2yeleri/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>İnternet</title>
-				<link>http://localhost:49304/categories/internet/</link>
+				<link>http://localhost:1313/Blog/categories/internet/</link>
 				<pubDate>Fri, 16 Jan 2026 03:40:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/internet/</guid>
+				<guid>http://localhost:1313/Blog/categories/internet/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Jeopolitik</title>
-				<link>http://localhost:49304/categories/jeopolitik/</link>
+				<link>http://localhost:1313/Blog/categories/jeopolitik/</link>
 				<pubDate>Fri, 16 Jan 2026 03:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/jeopolitik/</guid>
+				<guid>http://localhost:1313/Blog/categories/jeopolitik/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Siber Savaş</title>
-				<link>http://localhost:49304/categories/siber-sava%C5%9F/</link>
+				<link>http://localhost:1313/Blog/categories/siber-sava%C5%9F/</link>
 				<pubDate>Fri, 16 Jan 2026 03:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/siber-sava%C5%9F/</guid>
+				<guid>http://localhost:1313/Blog/categories/siber-sava%C5%9F/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Bilim</title>
-				<link>http://localhost:49304/categories/bilim/</link>
+				<link>http://localhost:1313/Blog/categories/bilim/</link>
 				<pubDate>Fri, 16 Jan 2026 03:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/bilim/</guid>
+				<guid>http://localhost:1313/Blog/categories/bilim/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Doğa</title>
-				<link>http://localhost:49304/categories/do%C4%9Fa/</link>
+				<link>http://localhost:1313/Blog/categories/do%C4%9Fa/</link>
 				<pubDate>Fri, 16 Jan 2026 03:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/do%C4%9Fa/</guid>
+				<guid>http://localhost:1313/Blog/categories/do%C4%9Fa/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Felsefe</title>
-				<link>http://localhost:49304/categories/felsefe/</link>
+				<link>http://localhost:1313/Blog/categories/felsefe/</link>
 				<pubDate>Fri, 16 Jan 2026 03:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/felsefe/</guid>
+				<guid>http://localhost:1313/Blog/categories/felsefe/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>İnovasyon</title>
-				<link>http://localhost:49304/categories/inovasyon/</link>
+				<link>http://localhost:1313/Blog/categories/inovasyon/</link>
 				<pubDate>Fri, 16 Jan 2026 03:10:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/inovasyon/</guid>
+				<guid>http://localhost:1313/Blog/categories/inovasyon/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>İş Dünyası</title>
-				<link>http://localhost:49304/categories/i%C5%9F-d%C3%BCnyas%C4%B1/</link>
+				<link>http://localhost:1313/Blog/categories/i%C5%9F-d%C3%BCnyas%C4%B1/</link>
 				<pubDate>Fri, 16 Jan 2026 03:10:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/i%C5%9F-d%C3%BCnyas%C4%B1/</guid>
+				<guid>http://localhost:1313/Blog/categories/i%C5%9F-d%C3%BCnyas%C4%B1/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Girişimcilik</title>
-				<link>http://localhost:49304/categories/giri%C5%9Fimcilik/</link>
+				<link>http://localhost:1313/Blog/categories/giri%C5%9Fimcilik/</link>
 				<pubDate>Fri, 16 Jan 2026 02:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/giri%C5%9Fimcilik/</guid>
+				<guid>http://localhost:1313/Blog/categories/giri%C5%9Fimcilik/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Silikon Vadisi</title>
-				<link>http://localhost:49304/categories/silikon-vadisi/</link>
+				<link>http://localhost:1313/Blog/categories/silikon-vadisi/</link>
 				<pubDate>Fri, 16 Jan 2026 02:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/silikon-vadisi/</guid>
+				<guid>http://localhost:1313/Blog/categories/silikon-vadisi/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Dijital Medya</title>
-				<link>http://localhost:49304/categories/dijital-medya/</link>
+				<link>http://localhost:1313/Blog/categories/dijital-medya/</link>
 				<pubDate>Fri, 16 Jan 2026 02:40:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/dijital-medya/</guid>
+				<guid>http://localhost:1313/Blog/categories/dijital-medya/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Siber Güvenlik</title>
-				<link>http://localhost:49304/categories/siber-g%C3%BCvenlik/</link>
+				<link>http://localhost:1313/Blog/categories/siber-g%C3%BCvenlik/</link>
 				<pubDate>Fri, 16 Jan 2026 02:40:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/siber-g%C3%BCvenlik/</guid>
+				<guid>http://localhost:1313/Blog/categories/siber-g%C3%BCvenlik/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Darknet</title>
-				<link>http://localhost:49304/categories/darknet/</link>
+				<link>http://localhost:1313/Blog/categories/darknet/</link>
 				<pubDate>Fri, 16 Jan 2026 02:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/darknet/</guid>
+				<guid>http://localhost:1313/Blog/categories/darknet/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Kripto Paralar</title>
-				<link>http://localhost:49304/categories/kripto-paralar/</link>
+				<link>http://localhost:1313/Blog/categories/kripto-paralar/</link>
 				<pubDate>Fri, 16 Jan 2026 02:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/kripto-paralar/</guid>
+				<guid>http://localhost:1313/Blog/categories/kripto-paralar/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Dijital Güvenlik</title>
-				<link>http://localhost:49304/categories/dijital-g%C3%BCvenlik/</link>
+				<link>http://localhost:1313/Blog/categories/dijital-g%C3%BCvenlik/</link>
 				<pubDate>Fri, 16 Jan 2026 02:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/dijital-g%C3%BCvenlik/</guid>
+				<guid>http://localhost:1313/Blog/categories/dijital-g%C3%BCvenlik/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>İnsan Hakları</title>
-				<link>http://localhost:49304/categories/insan-haklar%C4%B1/</link>
+				<link>http://localhost:1313/Blog/categories/insan-haklar%C4%B1/</link>
 				<pubDate>Fri, 16 Jan 2026 02:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/insan-haklar%C4%B1/</guid>
+				<guid>http://localhost:1313/Blog/categories/insan-haklar%C4%B1/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>İstihbarat Tarihi</title>
-				<link>http://localhost:49304/categories/istihbarat-tarihi/</link>
+				<link>http://localhost:1313/Blog/categories/istihbarat-tarihi/</link>
 				<pubDate>Fri, 16 Jan 2026 02:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/istihbarat-tarihi/</guid>
+				<guid>http://localhost:1313/Blog/categories/istihbarat-tarihi/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Casusluk Tarihi</title>
-				<link>http://localhost:49304/categories/casusluk-tarihi/</link>
+				<link>http://localhost:1313/Blog/categories/casusluk-tarihi/</link>
 				<pubDate>Fri, 16 Jan 2026 02:10:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/casusluk-tarihi/</guid>
+				<guid>http://localhost:1313/Blog/categories/casusluk-tarihi/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Dijital Haklar</title>
-				<link>http://localhost:49304/categories/dijital-haklar/</link>
+				<link>http://localhost:1313/Blog/categories/dijital-haklar/</link>
 				<pubDate>Fri, 16 Jan 2026 02:10:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/dijital-haklar/</guid>
+				<guid>http://localhost:1313/Blog/categories/dijital-haklar/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Güvenlik</title>
-				<link>http://localhost:49304/categories/g%C3%BCvenlik/</link>
+				<link>http://localhost:1313/Blog/categories/g%C3%BCvenlik/</link>
 				<pubDate>Fri, 16 Jan 2026 02:00:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/g%C3%BCvenlik/</guid>
+				<guid>http://localhost:1313/Blog/categories/g%C3%BCvenlik/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>İnternet Teknolojileri</title>
-				<link>http://localhost:49304/categories/internet-teknolojileri/</link>
+				<link>http://localhost:1313/Blog/categories/internet-teknolojileri/</link>
 				<pubDate>Fri, 16 Jan 2026 01:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/internet-teknolojileri/</guid>
+				<guid>http://localhost:1313/Blog/categories/internet-teknolojileri/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Teknoloji</title>
-				<link>http://localhost:49304/categories/teknoloji/</link>
+				<link>http://localhost:1313/Blog/categories/teknoloji/</link>
 				<pubDate>Fri, 16 Jan 2026 01:40:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/teknoloji/</guid>
+				<guid>http://localhost:1313/Blog/categories/teknoloji/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Biyografi</title>
-				<link>http://localhost:49304/categories/biyografi/</link>
+				<link>http://localhost:1313/Blog/categories/biyografi/</link>
 				<pubDate>Fri, 16 Jan 2026 01:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/categories/biyografi/</guid>
+				<guid>http://localhost:1313/Blog/categories/biyografi/</guid>
 				<description></description>
 			</item>
 	</channel>

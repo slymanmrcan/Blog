@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Etiketler on Suleyman Mercan</title>
-		<link>http://localhost:49304/tags/</link>
+		<link>http://localhost:1313/Blog/tags/</link>
 		<description>Recent content in Etiketler on Suleyman Mercan</description>
 		<generator>Hugo</generator>
 		<language>tr</language>
@@ -12,978 +12,1034 @@
 		
 			<lastBuildDate>Fri, 16 Jan 2026 04:44:02 +0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:49304/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/Blog/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>AaronSwartz</title>
-				<link>http://localhost:49304/tags/aaronswartz/</link>
+				<link>http://localhost:1313/Blog/tags/aaronswartz/</link>
 				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
-				<guid>http://localhost:49304/tags/aaronswartz/</guid>
+				<guid>http://localhost:1313/Blog/tags/aaronswartz/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>AçıkKaynak</title>
+				<link>http://localhost:1313/Blog/tags/a%C3%A7%C4%B1kkaynak/</link>
+				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
+				<guid>http://localhost:1313/Blog/tags/a%C3%A7%C4%B1kkaynak/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>AdaLovelace</title>
-				<link>http://localhost:49304/tags/adalovelace/</link>
+				<link>http://localhost:1313/Blog/tags/adalovelace/</link>
 				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
-				<guid>http://localhost:49304/tags/adalovelace/</guid>
+				<guid>http://localhost:1313/Blog/tags/adalovelace/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>AlgorithmHistory</title>
-				<link>http://localhost:49304/tags/algorithmhistory/</link>
+				<link>http://localhost:1313/Blog/tags/algorithmhistory/</link>
 				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
-				<guid>http://localhost:49304/tags/algorithmhistory/</guid>
+				<guid>http://localhost:1313/Blog/tags/algorithmhistory/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>CharlesBabbage</title>
-				<link>http://localhost:49304/tags/charlesbabbage/</link>
+				<link>http://localhost:1313/Blog/tags/charlesbabbage/</link>
 				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
-				<guid>http://localhost:49304/tags/charlesbabbage/</guid>
+				<guid>http://localhost:1313/Blog/tags/charlesbabbage/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ComputingHistory</title>
-				<link>http://localhost:49304/tags/computinghistory/</link>
+				<link>http://localhost:1313/Blog/tags/computinghistory/</link>
 				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
-				<guid>http://localhost:49304/tags/computinghistory/</guid>
+				<guid>http://localhost:1313/Blog/tags/computinghistory/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>CreativeCommons</title>
-				<link>http://localhost:49304/tags/creativecommons/</link>
+				<link>http://localhost:1313/Blog/tags/creativecommons/</link>
 				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
-				<guid>http://localhost:49304/tags/creativecommons/</guid>
+				<guid>http://localhost:1313/Blog/tags/creativecommons/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>FirstProgrammer</title>
-				<link>http://localhost:49304/tags/firstprogrammer/</link>
+				<link>http://localhost:1313/Blog/tags/firstprogrammer/</link>
 				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
-				<guid>http://localhost:49304/tags/firstprogrammer/</guid>
+				<guid>http://localhost:1313/Blog/tags/firstprogrammer/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>HolyC</title>
+				<link>http://localhost:1313/Blog/tags/holyc/</link>
+				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
+				<guid>http://localhost:1313/Blog/tags/holyc/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Internet</title>
-				<link>http://localhost:49304/tags/internet/</link>
+				<link>http://localhost:1313/Blog/tags/internet/</link>
 				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
-				<guid>http://localhost:49304/tags/internet/</guid>
+				<guid>http://localhost:1313/Blog/tags/internet/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>JIT</title>
+				<link>http://localhost:1313/Blog/tags/jit/</link>
+				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
+				<guid>http://localhost:1313/Blog/tags/jit/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>JSTOR</title>
-				<link>http://localhost:49304/tags/jstor/</link>
+				<link>http://localhost:1313/Blog/tags/jstor/</link>
 				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
-				<guid>http://localhost:49304/tags/jstor/</guid>
+				<guid>http://localhost:1313/Blog/tags/jstor/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Kernel</title>
+				<link>http://localhost:1313/Blog/tags/kernel/</link>
+				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
+				<guid>http://localhost:1313/Blog/tags/kernel/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>OpenAccess</title>
-				<link>http://localhost:49304/tags/openaccess/</link>
+				<link>http://localhost:1313/Blog/tags/openaccess/</link>
 				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
-				<guid>http://localhost:49304/tags/openaccess/</guid>
+				<guid>http://localhost:1313/Blog/tags/openaccess/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>OSGeliştirme</title>
+				<link>http://localhost:1313/Blog/tags/osgeli%C5%9Ftirme/</link>
+				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
+				<guid>http://localhost:1313/Blog/tags/osgeli%C5%9Ftirme/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>PoeticalScience</title>
-				<link>http://localhost:49304/tags/poeticalscience/</link>
+				<link>http://localhost:1313/Blog/tags/poeticalscience/</link>
 				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
-				<guid>http://localhost:49304/tags/poeticalscience/</guid>
+				<guid>http://localhost:1313/Blog/tags/poeticalscience/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Reddit</title>
-				<link>http://localhost:49304/tags/reddit/</link>
+				<link>http://localhost:1313/Blog/tags/reddit/</link>
 				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
-				<guid>http://localhost:49304/tags/reddit/</guid>
+				<guid>http://localhost:1313/Blog/tags/reddit/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>RSS</title>
-				<link>http://localhost:49304/tags/rss/</link>
+				<link>http://localhost:1313/Blog/tags/rss/</link>
 				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
-				<guid>http://localhost:49304/tags/rss/</guid>
+				<guid>http://localhost:1313/Blog/tags/rss/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>SOPA</title>
-				<link>http://localhost:49304/tags/sopa/</link>
+				<link>http://localhost:1313/Blog/tags/sopa/</link>
 				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
-				<guid>http://localhost:49304/tags/sopa/</guid>
+				<guid>http://localhost:1313/Blog/tags/sopa/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Şizofreni</title>
+				<link>http://localhost:1313/Blog/tags/%C5%9Fizofreni/</link>
+				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
+				<guid>http://localhost:1313/Blog/tags/%C5%9Fizofreni/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>TempleOS</title>
+				<link>http://localhost:1313/Blog/tags/templeos/</link>
+				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
+				<guid>http://localhost:1313/Blog/tags/templeos/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>TerryDavis</title>
+				<link>http://localhost:1313/Blog/tags/terrydavis/</link>
+				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
+				<guid>http://localhost:1313/Blog/tags/terrydavis/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>WomenInSTEM</title>
-				<link>http://localhost:49304/tags/womeninstem/</link>
+				<link>http://localhost:1313/Blog/tags/womeninstem/</link>
 				<pubDate>Fri, 16 Jan 2026 04:44:02 +0300</pubDate>
-				<guid>http://localhost:49304/tags/womeninstem/</guid>
+				<guid>http://localhost:1313/Blog/tags/womeninstem/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ChatGPT</title>
-				<link>http://localhost:49304/tags/chatgpt/</link>
+				<link>http://localhost:1313/Blog/tags/chatgpt/</link>
 				<pubDate>Fri, 16 Jan 2026 04:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/chatgpt/</guid>
+				<guid>http://localhost:1313/Blog/tags/chatgpt/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>DeepLearning</title>
-				<link>http://localhost:49304/tags/deeplearning/</link>
+				<link>http://localhost:1313/Blog/tags/deeplearning/</link>
 				<pubDate>Fri, 16 Jan 2026 04:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/deeplearning/</guid>
+				<guid>http://localhost:1313/Blog/tags/deeplearning/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>EthicsInAI</title>
-				<link>http://localhost:49304/tags/ethicsinai/</link>
+				<link>http://localhost:1313/Blog/tags/ethicsinai/</link>
 				<pubDate>Fri, 16 Jan 2026 04:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/ethicsinai/</guid>
+				<guid>http://localhost:1313/Blog/tags/ethicsinai/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>FutureTech</title>
-				<link>http://localhost:49304/tags/futuretech/</link>
+				<link>http://localhost:1313/Blog/tags/futuretech/</link>
 				<pubDate>Fri, 16 Jan 2026 04:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/futuretech/</guid>
+				<guid>http://localhost:1313/Blog/tags/futuretech/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>HistoryOfAI</title>
-				<link>http://localhost:49304/tags/historyofai/</link>
+				<link>http://localhost:1313/Blog/tags/historyofai/</link>
 				<pubDate>Fri, 16 Jan 2026 04:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/historyofai/</guid>
+				<guid>http://localhost:1313/Blog/tags/historyofai/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Nvidia</title>
-				<link>http://localhost:49304/tags/nvidia/</link>
+				<title>NVIDIA</title>
+				<link>http://localhost:1313/Blog/tags/nvidia/</link>
 				<pubDate>Fri, 16 Jan 2026 04:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/nvidia/</guid>
+				<guid>http://localhost:1313/Blog/tags/nvidia/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>TuringTest</title>
-				<link>http://localhost:49304/tags/turingtest/</link>
+				<link>http://localhost:1313/Blog/tags/turingtest/</link>
 				<pubDate>Fri, 16 Jan 2026 04:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/turingtest/</guid>
+				<guid>http://localhost:1313/Blog/tags/turingtest/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>YapayZeka</title>
-				<link>http://localhost:49304/tags/yapayzeka/</link>
+				<link>http://localhost:1313/Blog/tags/yapayzeka/</link>
 				<pubDate>Fri, 16 Jan 2026 04:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/yapayzeka/</guid>
+				<guid>http://localhost:1313/Blog/tags/yapayzeka/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>AI</title>
-				<link>http://localhost:49304/tags/ai/</link>
+				<link>http://localhost:1313/Blog/tags/ai/</link>
 				<pubDate>Fri, 16 Jan 2026 04:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/ai/</guid>
+				<guid>http://localhost:1313/Blog/tags/ai/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>EXOLabs</title>
-				<link>http://localhost:49304/tags/exolabs/</link>
+				<link>http://localhost:1313/Blog/tags/exolabs/</link>
 				<pubDate>Fri, 16 Jan 2026 04:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/exolabs/</guid>
+				<guid>http://localhost:1313/Blog/tags/exolabs/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Llama3</title>
-				<link>http://localhost:49304/tags/llama3/</link>
+				<link>http://localhost:1313/Blog/tags/llama3/</link>
 				<pubDate>Fri, 16 Jan 2026 04:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/llama3/</guid>
+				<guid>http://localhost:1313/Blog/tags/llama3/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>MachineLearning</title>
-				<link>http://localhost:49304/tags/machinelearning/</link>
+				<link>http://localhost:1313/Blog/tags/machinelearning/</link>
 				<pubDate>Fri, 16 Jan 2026 04:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/machinelearning/</guid>
+				<guid>http://localhost:1313/Blog/tags/machinelearning/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>MacStudio</title>
-				<link>http://localhost:49304/tags/macstudio/</link>
+				<link>http://localhost:1313/Blog/tags/macstudio/</link>
 				<pubDate>Fri, 16 Jan 2026 04:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/macstudio/</guid>
+				<guid>http://localhost:1313/Blog/tags/macstudio/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Supercomputer</title>
-				<link>http://localhost:49304/tags/supercomputer/</link>
+				<link>http://localhost:1313/Blog/tags/supercomputer/</link>
 				<pubDate>Fri, 16 Jan 2026 04:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/supercomputer/</guid>
+				<guid>http://localhost:1313/Blog/tags/supercomputer/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ASML</title>
-				<link>http://localhost:49304/tags/asml/</link>
+				<link>http://localhost:1313/Blog/tags/asml/</link>
 				<pubDate>Fri, 16 Jan 2026 04:10:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/asml/</guid>
+				<guid>http://localhost:1313/Blog/tags/asml/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ChipWar</title>
-				<link>http://localhost:49304/tags/chipwar/</link>
+				<link>http://localhost:1313/Blog/tags/chipwar/</link>
 				<pubDate>Fri, 16 Jan 2026 04:10:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/chipwar/</guid>
+				<guid>http://localhost:1313/Blog/tags/chipwar/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Engineering</title>
-				<link>http://localhost:49304/tags/engineering/</link>
+				<link>http://localhost:1313/Blog/tags/engineering/</link>
 				<pubDate>Fri, 16 Jan 2026 04:10:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/engineering/</guid>
+				<guid>http://localhost:1313/Blog/tags/engineering/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>EUV</title>
-				<link>http://localhost:49304/tags/euv/</link>
+				<link>http://localhost:1313/Blog/tags/euv/</link>
 				<pubDate>Fri, 16 Jan 2026 04:10:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/euv/</guid>
+				<guid>http://localhost:1313/Blog/tags/euv/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Lithography</title>
-				<link>http://localhost:49304/tags/lithography/</link>
+				<link>http://localhost:1313/Blog/tags/lithography/</link>
 				<pubDate>Fri, 16 Jan 2026 04:10:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/lithography/</guid>
+				<guid>http://localhost:1313/Blog/tags/lithography/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Semiconductor</title>
-				<link>http://localhost:49304/tags/semiconductor/</link>
+				<link>http://localhost:1313/Blog/tags/semiconductor/</link>
 				<pubDate>Fri, 16 Jan 2026 04:10:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/semiconductor/</guid>
+				<guid>http://localhost:1313/Blog/tags/semiconductor/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>TechHistory</title>
-				<link>http://localhost:49304/tags/techhistory/</link>
+				<link>http://localhost:1313/Blog/tags/techhistory/</link>
 				<pubDate>Fri, 16 Jan 2026 04:10:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/techhistory/</guid>
+				<guid>http://localhost:1313/Blog/tags/techhistory/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ZeenithOfLight</title>
-				<link>http://localhost:49304/tags/zeenithoflight/</link>
+				<link>http://localhost:1313/Blog/tags/zeenithoflight/</link>
 				<pubDate>Fri, 16 Jan 2026 04:10:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/zeenithoflight/</guid>
+				<guid>http://localhost:1313/Blog/tags/zeenithoflight/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>4chan</title>
-				<link>http://localhost:49304/tags/4chan/</link>
+				<link>http://localhost:1313/Blog/tags/4chan/</link>
 				<pubDate>Fri, 16 Jan 2026 04:00:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/4chan/</guid>
+				<guid>http://localhost:1313/Blog/tags/4chan/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Cicada3301</title>
-				<link>http://localhost:49304/tags/cicada3301/</link>
+				<link>http://localhost:1313/Blog/tags/cicada3301/</link>
 				<pubDate>Fri, 16 Jan 2026 04:00:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/cicada3301/</guid>
+				<guid>http://localhost:1313/Blog/tags/cicada3301/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Cryptography</title>
-				<link>http://localhost:49304/tags/cryptography/</link>
+				<link>http://localhost:1313/Blog/tags/cryptography/</link>
 				<pubDate>Fri, 16 Jan 2026 04:00:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/cryptography/</guid>
+				<guid>http://localhost:1313/Blog/tags/cryptography/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Darknet</title>
-				<link>http://localhost:49304/tags/darknet/</link>
+				<link>http://localhost:1313/Blog/tags/darknet/</link>
 				<pubDate>Fri, 16 Jan 2026 04:00:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/darknet/</guid>
+				<guid>http://localhost:1313/Blog/tags/darknet/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Hacker</title>
-				<link>http://localhost:49304/tags/hacker/</link>
+				<link>http://localhost:1313/Blog/tags/hacker/</link>
 				<pubDate>Fri, 16 Jan 2026 04:00:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/hacker/</guid>
+				<guid>http://localhost:1313/Blog/tags/hacker/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>InternetMystery</title>
-				<link>http://localhost:49304/tags/internetmystery/</link>
+				<link>http://localhost:1313/Blog/tags/internetmystery/</link>
 				<pubDate>Fri, 16 Jan 2026 04:00:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/internetmystery/</guid>
+				<guid>http://localhost:1313/Blog/tags/internetmystery/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>LiberPrimus</title>
-				<link>http://localhost:49304/tags/liberprimus/</link>
+				<link>http://localhost:1313/Blog/tags/liberprimus/</link>
 				<pubDate>Fri, 16 Jan 2026 04:00:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/liberprimus/</guid>
+				<guid>http://localhost:1313/Blog/tags/liberprimus/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Puzzle</title>
-				<link>http://localhost:49304/tags/puzzle/</link>
+				<link>http://localhost:1313/Blog/tags/puzzle/</link>
 				<pubDate>Fri, 16 Jan 2026 04:00:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/puzzle/</guid>
+				<guid>http://localhost:1313/Blog/tags/puzzle/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ChileHistory</title>
-				<link>http://localhost:49304/tags/chilehistory/</link>
+				<link>http://localhost:1313/Blog/tags/chilehistory/</link>
 				<pubDate>Fri, 16 Jan 2026 03:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/chilehistory/</guid>
+				<guid>http://localhost:1313/Blog/tags/chilehistory/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Cybernetics</title>
-				<link>http://localhost:49304/tags/cybernetics/</link>
+				<link>http://localhost:1313/Blog/tags/cybernetics/</link>
 				<pubDate>Fri, 16 Jan 2026 03:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/cybernetics/</guid>
+				<guid>http://localhost:1313/Blog/tags/cybernetics/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Cybersyn</title>
-				<link>http://localhost:49304/tags/cybersyn/</link>
+				<link>http://localhost:1313/Blog/tags/cybersyn/</link>
 				<pubDate>Fri, 16 Jan 2026 03:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/cybersyn/</guid>
+				<guid>http://localhost:1313/Blog/tags/cybersyn/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>InternetHistory</title>
-				<link>http://localhost:49304/tags/internethistory/</link>
+				<link>http://localhost:1313/Blog/tags/internethistory/</link>
 				<pubDate>Fri, 16 Jan 2026 03:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/internethistory/</guid>
+				<guid>http://localhost:1313/Blog/tags/internethistory/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ProjectCybersyn</title>
-				<link>http://localhost:49304/tags/projectcybersyn/</link>
+				<link>http://localhost:1313/Blog/tags/projectcybersyn/</link>
 				<pubDate>Fri, 16 Jan 2026 03:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/projectcybersyn/</guid>
+				<guid>http://localhost:1313/Blog/tags/projectcybersyn/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>RetroFuturism</title>
-				<link>http://localhost:49304/tags/retrofuturism/</link>
+				<link>http://localhost:1313/Blog/tags/retrofuturism/</link>
 				<pubDate>Fri, 16 Jan 2026 03:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/retrofuturism/</guid>
+				<guid>http://localhost:1313/Blog/tags/retrofuturism/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>StaffordBeer</title>
-				<link>http://localhost:49304/tags/staffordbeer/</link>
+				<link>http://localhost:1313/Blog/tags/staffordbeer/</link>
 				<pubDate>Fri, 16 Jan 2026 03:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/staffordbeer/</guid>
+				<guid>http://localhost:1313/Blog/tags/staffordbeer/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>CERN</title>
-				<link>http://localhost:49304/tags/cern/</link>
+				<link>http://localhost:1313/Blog/tags/cern/</link>
 				<pubDate>Fri, 16 Jan 2026 03:40:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/cern/</guid>
+				<guid>http://localhost:1313/Blog/tags/cern/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>HTML</title>
-				<link>http://localhost:49304/tags/html/</link>
+				<link>http://localhost:1313/Blog/tags/html/</link>
 				<pubDate>Fri, 16 Jan 2026 03:40:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/html/</guid>
+				<guid>http://localhost:1313/Blog/tags/html/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>İnternetTarihi</title>
-				<link>http://localhost:49304/tags/internettarihi/</link>
+				<link>http://localhost:1313/Blog/tags/internettarihi/</link>
 				<pubDate>Fri, 16 Jan 2026 03:40:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/internettarihi/</guid>
+				<guid>http://localhost:1313/Blog/tags/internettarihi/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>SolidProject</title>
-				<link>http://localhost:49304/tags/solidproject/</link>
+				<link>http://localhost:1313/Blog/tags/solidproject/</link>
 				<pubDate>Fri, 16 Jan 2026 03:40:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/solidproject/</guid>
+				<guid>http://localhost:1313/Blog/tags/solidproject/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>TimBernersLee</title>
-				<link>http://localhost:49304/tags/timbernerslee/</link>
+				<link>http://localhost:1313/Blog/tags/timbernerslee/</link>
 				<pubDate>Fri, 16 Jan 2026 03:40:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/timbernerslee/</guid>
+				<guid>http://localhost:1313/Blog/tags/timbernerslee/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>W3C</title>
-				<link>http://localhost:49304/tags/w3c/</link>
+				<link>http://localhost:1313/Blog/tags/w3c/</link>
 				<pubDate>Fri, 16 Jan 2026 03:40:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/w3c/</guid>
+				<guid>http://localhost:1313/Blog/tags/w3c/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>WWW</title>
-				<link>http://localhost:49304/tags/www/</link>
+				<link>http://localhost:1313/Blog/tags/www/</link>
 				<pubDate>Fri, 16 Jan 2026 03:40:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/www/</guid>
+				<guid>http://localhost:1313/Blog/tags/www/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Bureau121</title>
-				<link>http://localhost:49304/tags/bureau121/</link>
+				<link>http://localhost:1313/Blog/tags/bureau121/</link>
 				<pubDate>Fri, 16 Jan 2026 03:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/bureau121/</guid>
+				<guid>http://localhost:1313/Blog/tags/bureau121/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>CryptoHeist</title>
-				<link>http://localhost:49304/tags/cryptoheist/</link>
+				<link>http://localhost:1313/Blog/tags/cryptoheist/</link>
 				<pubDate>Fri, 16 Jan 2026 03:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/cryptoheist/</guid>
+				<guid>http://localhost:1313/Blog/tags/cryptoheist/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>CyberWarfare</title>
-				<link>http://localhost:49304/tags/cyberwarfare/</link>
+				<link>http://localhost:1313/Blog/tags/cyberwarfare/</link>
 				<pubDate>Fri, 16 Jan 2026 03:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/cyberwarfare/</guid>
+				<guid>http://localhost:1313/Blog/tags/cyberwarfare/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>DigitalArmy</title>
-				<link>http://localhost:49304/tags/digitalarmy/</link>
+				<link>http://localhost:1313/Blog/tags/digitalarmy/</link>
 				<pubDate>Fri, 16 Jan 2026 03:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/digitalarmy/</guid>
+				<guid>http://localhost:1313/Blog/tags/digitalarmy/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>LazarusGroup</title>
-				<link>http://localhost:49304/tags/lazarusgroup/</link>
+				<link>http://localhost:1313/Blog/tags/lazarusgroup/</link>
 				<pubDate>Fri, 16 Jan 2026 03:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/lazarusgroup/</guid>
+				<guid>http://localhost:1313/Blog/tags/lazarusgroup/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>NorthKorea</title>
-				<link>http://localhost:49304/tags/northkorea/</link>
+				<link>http://localhost:1313/Blog/tags/northkorea/</link>
 				<pubDate>Fri, 16 Jan 2026 03:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/northkorea/</guid>
+				<guid>http://localhost:1313/Blog/tags/northkorea/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>SonyHack</title>
-				<link>http://localhost:49304/tags/sonyhack/</link>
+				<link>http://localhost:1313/Blog/tags/sonyhack/</link>
 				<pubDate>Fri, 16 Jan 2026 03:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/sonyhack/</guid>
+				<guid>http://localhost:1313/Blog/tags/sonyhack/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>WannaCry</title>
-				<link>http://localhost:49304/tags/wannacry/</link>
+				<link>http://localhost:1313/Blog/tags/wannacry/</link>
 				<pubDate>Fri, 16 Jan 2026 03:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/wannacry/</guid>
+				<guid>http://localhost:1313/Blog/tags/wannacry/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>BarışÖzcan</title>
-				<link>http://localhost:49304/tags/bar%C4%B1%C5%9F%C3%B6zcan/</link>
+				<link>http://localhost:1313/Blog/tags/bar%C4%B1%C5%9F%C3%B6zcan/</link>
 				<pubDate>Fri, 16 Jan 2026 03:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/bar%C4%B1%C5%9F%C3%B6zcan/</guid>
+				<guid>http://localhost:1313/Blog/tags/bar%C4%B1%C5%9F%C3%B6zcan/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>BilimVeSanat</title>
-				<link>http://localhost:49304/tags/bilimvesanat/</link>
+				<link>http://localhost:1313/Blog/tags/bilimvesanat/</link>
 				<pubDate>Fri, 16 Jan 2026 03:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/bilimvesanat/</guid>
+				<guid>http://localhost:1313/Blog/tags/bilimvesanat/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Dalgalar</title>
-				<link>http://localhost:49304/tags/dalgalar/</link>
+				<link>http://localhost:1313/Blog/tags/dalgalar/</link>
 				<pubDate>Fri, 16 Jan 2026 03:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/dalgalar/</guid>
+				<guid>http://localhost:1313/Blog/tags/dalgalar/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>DoğaFelsefesi</title>
-				<link>http://localhost:49304/tags/do%C4%9Fafelsefesi/</link>
+				<link>http://localhost:1313/Blog/tags/do%C4%9Fafelsefesi/</link>
 				<pubDate>Fri, 16 Jan 2026 03:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/do%C4%9Fafelsefesi/</guid>
+				<guid>http://localhost:1313/Blog/tags/do%C4%9Fafelsefesi/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Enerji</title>
-				<link>http://localhost:49304/tags/enerji/</link>
+				<link>http://localhost:1313/Blog/tags/enerji/</link>
 				<pubDate>Fri, 16 Jan 2026 03:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/enerji/</guid>
+				<guid>http://localhost:1313/Blog/tags/enerji/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Fizik</title>
-				<link>http://localhost:49304/tags/fizik/</link>
+				<link>http://localhost:1313/Blog/tags/fizik/</link>
 				<pubDate>Fri, 16 Jan 2026 03:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/fizik/</guid>
+				<guid>http://localhost:1313/Blog/tags/fizik/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Hokusai</title>
-				<link>http://localhost:49304/tags/hokusai/</link>
+				<link>http://localhost:1313/Blog/tags/hokusai/</link>
 				<pubDate>Fri, 16 Jan 2026 03:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/hokusai/</guid>
+				<guid>http://localhost:1313/Blog/tags/hokusai/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Okyanus</title>
-				<link>http://localhost:49304/tags/okyanus/</link>
+				<link>http://localhost:1313/Blog/tags/okyanus/</link>
 				<pubDate>Fri, 16 Jan 2026 03:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/okyanus/</guid>
+				<guid>http://localhost:1313/Blog/tags/okyanus/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>3310</title>
-				<link>http://localhost:49304/tags/3310/</link>
+				<link>http://localhost:1313/Blog/tags/3310/</link>
 				<pubDate>Fri, 16 Jan 2026 03:10:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/3310/</guid>
+				<guid>http://localhost:1313/Blog/tags/3310/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>5G</title>
-				<link>http://localhost:49304/tags/5g/</link>
+				<link>http://localhost:1313/Blog/tags/5g/</link>
 				<pubDate>Fri, 16 Jan 2026 03:10:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/5g/</guid>
+				<guid>http://localhost:1313/Blog/tags/5g/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>FredrikIdestam</title>
-				<link>http://localhost:49304/tags/fredrikidestam/</link>
+				<link>http://localhost:1313/Blog/tags/fredrikidestam/</link>
 				<pubDate>Fri, 16 Jan 2026 03:10:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/fredrikidestam/</guid>
+				<guid>http://localhost:1313/Blog/tags/fredrikidestam/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nokia</title>
-				<link>http://localhost:49304/tags/nokia/</link>
+				<link>http://localhost:1313/Blog/tags/nokia/</link>
 				<pubDate>Fri, 16 Jan 2026 03:10:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/nokia/</guid>
+				<guid>http://localhost:1313/Blog/tags/nokia/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Symbian</title>
-				<link>http://localhost:49304/tags/symbian/</link>
+				<link>http://localhost:1313/Blog/tags/symbian/</link>
 				<pubDate>Fri, 16 Jan 2026 03:10:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/symbian/</guid>
+				<guid>http://localhost:1313/Blog/tags/symbian/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Teknoloji</title>
-				<link>http://localhost:49304/tags/teknoloji/</link>
+				<link>http://localhost:1313/Blog/tags/teknoloji/</link>
 				<pubDate>Fri, 16 Jan 2026 03:10:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/teknoloji/</guid>
+				<guid>http://localhost:1313/Blog/tags/teknoloji/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Telekom</title>
-				<link>http://localhost:49304/tags/telekom/</link>
+				<link>http://localhost:1313/Blog/tags/telekom/</link>
 				<pubDate>Fri, 16 Jan 2026 03:10:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/telekom/</guid>
+				<guid>http://localhost:1313/Blog/tags/telekom/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Blackwell</title>
-				<link>http://localhost:49304/tags/blackwell/</link>
+				<link>http://localhost:1313/Blog/tags/blackwell/</link>
 				<pubDate>Fri, 16 Jan 2026 03:00:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/blackwell/</guid>
+				<guid>http://localhost:1313/Blog/tags/blackwell/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>CUDA</title>
-				<link>http://localhost:49304/tags/cuda/</link>
+				<link>http://localhost:1313/Blog/tags/cuda/</link>
 				<pubDate>Fri, 16 Jan 2026 03:00:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/cuda/</guid>
+				<guid>http://localhost:1313/Blog/tags/cuda/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>GPU</title>
-				<link>http://localhost:49304/tags/gpu/</link>
+				<link>http://localhost:1313/Blog/tags/gpu/</link>
 				<pubDate>Fri, 16 Jan 2026 03:00:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/gpu/</guid>
+				<guid>http://localhost:1313/Blog/tags/gpu/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>H100</title>
-				<link>http://localhost:49304/tags/h100/</link>
+				<link>http://localhost:1313/Blog/tags/h100/</link>
 				<pubDate>Fri, 16 Jan 2026 03:00:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/h100/</guid>
+				<guid>http://localhost:1313/Blog/tags/h100/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>JensenHuang</title>
-				<link>http://localhost:49304/tags/jensenhuang/</link>
+				<link>http://localhost:1313/Blog/tags/jensenhuang/</link>
 				<pubDate>Fri, 16 Jan 2026 03:00:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/jensenhuang/</guid>
+				<guid>http://localhost:1313/Blog/tags/jensenhuang/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ElonMusk</title>
-				<link>http://localhost:49304/tags/elonmusk/</link>
+				<link>http://localhost:1313/Blog/tags/elonmusk/</link>
 				<pubDate>Fri, 16 Jan 2026 02:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/elonmusk/</guid>
+				<guid>http://localhost:1313/Blog/tags/elonmusk/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>LinkedIn</title>
-				<link>http://localhost:49304/tags/linkedin/</link>
+				<link>http://localhost:1313/Blog/tags/linkedin/</link>
 				<pubDate>Fri, 16 Jan 2026 02:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/linkedin/</guid>
+				<guid>http://localhost:1313/Blog/tags/linkedin/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>PayPalMafia</title>
-				<link>http://localhost:49304/tags/paypalmafia/</link>
+				<link>http://localhost:1313/Blog/tags/paypalmafia/</link>
 				<pubDate>Fri, 16 Jan 2026 02:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/paypalmafia/</guid>
+				<guid>http://localhost:1313/Blog/tags/paypalmafia/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>PeterThiel</title>
-				<link>http://localhost:49304/tags/peterthiel/</link>
+				<link>http://localhost:1313/Blog/tags/peterthiel/</link>
 				<pubDate>Fri, 16 Jan 2026 02:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/peterthiel/</guid>
+				<guid>http://localhost:1313/Blog/tags/peterthiel/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>SiliconValley</title>
-				<link>http://localhost:49304/tags/siliconvalley/</link>
+				<link>http://localhost:1313/Blog/tags/siliconvalley/</link>
 				<pubDate>Fri, 16 Jan 2026 02:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/siliconvalley/</guid>
+				<guid>http://localhost:1313/Blog/tags/siliconvalley/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Startup</title>
-				<link>http://localhost:49304/tags/startup/</link>
+				<link>http://localhost:1313/Blog/tags/startup/</link>
 				<pubDate>Fri, 16 Jan 2026 02:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/startup/</guid>
+				<guid>http://localhost:1313/Blog/tags/startup/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Tesla</title>
-				<link>http://localhost:49304/tags/tesla/</link>
+				<link>http://localhost:1313/Blog/tags/tesla/</link>
 				<pubDate>Fri, 16 Jan 2026 02:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/tesla/</guid>
+				<guid>http://localhost:1313/Blog/tags/tesla/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>YouTube</title>
-				<link>http://localhost:49304/tags/youtube/</link>
+				<link>http://localhost:1313/Blog/tags/youtube/</link>
 				<pubDate>Fri, 16 Jan 2026 02:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/youtube/</guid>
+				<guid>http://localhost:1313/Blog/tags/youtube/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>CyberSecurity</title>
-				<link>http://localhost:49304/tags/cybersecurity/</link>
+				<link>http://localhost:1313/Blog/tags/cybersecurity/</link>
 				<pubDate>Fri, 16 Jan 2026 02:40:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/cybersecurity/</guid>
+				<guid>http://localhost:1313/Blog/tags/cybersecurity/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>DigitalSurveillance</title>
-				<link>http://localhost:49304/tags/digitalsurveillance/</link>
+				<link>http://localhost:1313/Blog/tags/digitalsurveillance/</link>
 				<pubDate>Fri, 16 Jan 2026 02:40:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/digitalsurveillance/</guid>
+				<guid>http://localhost:1313/Blog/tags/digitalsurveillance/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>NSOGroup</title>
-				<link>http://localhost:49304/tags/nsogroup/</link>
+				<link>http://localhost:1313/Blog/tags/nsogroup/</link>
 				<pubDate>Fri, 16 Jan 2026 02:40:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/nsogroup/</guid>
+				<guid>http://localhost:1313/Blog/tags/nsogroup/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Pegasus</title>
-				<link>http://localhost:49304/tags/pegasus/</link>
+				<link>http://localhost:1313/Blog/tags/pegasus/</link>
 				<pubDate>Fri, 16 Jan 2026 02:40:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/pegasus/</guid>
+				<guid>http://localhost:1313/Blog/tags/pegasus/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Privacy</title>
-				<link>http://localhost:49304/tags/privacy/</link>
+				<link>http://localhost:1313/Blog/tags/privacy/</link>
 				<pubDate>Fri, 16 Jan 2026 02:40:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/privacy/</guid>
+				<guid>http://localhost:1313/Blog/tags/privacy/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Spyware</title>
-				<link>http://localhost:49304/tags/spyware/</link>
+				<link>http://localhost:1313/Blog/tags/spyware/</link>
 				<pubDate>Fri, 16 Jan 2026 02:40:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/spyware/</guid>
+				<guid>http://localhost:1313/Blog/tags/spyware/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ZeroClick</title>
-				<link>http://localhost:49304/tags/zeroclick/</link>
+				<link>http://localhost:1313/Blog/tags/zeroclick/</link>
 				<pubDate>Fri, 16 Jan 2026 02:40:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/zeroclick/</guid>
+				<guid>http://localhost:1313/Blog/tags/zeroclick/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Bitcoin</title>
-				<link>http://localhost:49304/tags/bitcoin/</link>
+				<link>http://localhost:1313/Blog/tags/bitcoin/</link>
 				<pubDate>Fri, 16 Jan 2026 02:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/bitcoin/</guid>
+				<guid>http://localhost:1313/Blog/tags/bitcoin/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>DreadPirateRoberts</title>
-				<link>http://localhost:49304/tags/dreadpirateroberts/</link>
+				<link>http://localhost:1313/Blog/tags/dreadpirateroberts/</link>
 				<pubDate>Fri, 16 Jan 2026 02:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/dreadpirateroberts/</guid>
+				<guid>http://localhost:1313/Blog/tags/dreadpirateroberts/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>FBI</title>
-				<link>http://localhost:49304/tags/fbi/</link>
+				<link>http://localhost:1313/Blog/tags/fbi/</link>
 				<pubDate>Fri, 16 Jan 2026 02:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/fbi/</guid>
+				<guid>http://localhost:1313/Blog/tags/fbi/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>RossUlbricht</title>
-				<link>http://localhost:49304/tags/rossulbricht/</link>
+				<link>http://localhost:1313/Blog/tags/rossulbricht/</link>
 				<pubDate>Fri, 16 Jan 2026 02:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/rossulbricht/</guid>
+				<guid>http://localhost:1313/Blog/tags/rossulbricht/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>SilkRoad</title>
-				<link>http://localhost:49304/tags/silkroad/</link>
+				<link>http://localhost:1313/Blog/tags/silkroad/</link>
 				<pubDate>Fri, 16 Jan 2026 02:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/silkroad/</guid>
+				<guid>http://localhost:1313/Blog/tags/silkroad/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>TorNetwork</title>
-				<link>http://localhost:49304/tags/tornetwork/</link>
+				<link>http://localhost:1313/Blog/tags/tornetwork/</link>
 				<pubDate>Fri, 16 Jan 2026 02:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/tornetwork/</guid>
+				<guid>http://localhost:1313/Blog/tags/tornetwork/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>EdwardSnowden</title>
-				<link>http://localhost:49304/tags/edwardsnowden/</link>
+				<link>http://localhost:1313/Blog/tags/edwardsnowden/</link>
 				<pubDate>Fri, 16 Jan 2026 02:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/edwardsnowden/</guid>
+				<guid>http://localhost:1313/Blog/tags/edwardsnowden/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Encryption</title>
-				<link>http://localhost:49304/tags/encryption/</link>
+				<link>http://localhost:1313/Blog/tags/encryption/</link>
 				<pubDate>Fri, 16 Jan 2026 02:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/encryption/</guid>
+				<guid>http://localhost:1313/Blog/tags/encryption/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>NSA</title>
-				<link>http://localhost:49304/tags/nsa/</link>
+				<link>http://localhost:1313/Blog/tags/nsa/</link>
 				<pubDate>Fri, 16 Jan 2026 02:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/nsa/</guid>
+				<guid>http://localhost:1313/Blog/tags/nsa/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Prism</title>
-				<link>http://localhost:49304/tags/prism/</link>
+				<title>PRISM</title>
+				<link>http://localhost:1313/Blog/tags/prism/</link>
 				<pubDate>Fri, 16 Jan 2026 02:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/prism/</guid>
+				<guid>http://localhost:1313/Blog/tags/prism/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Whistleblower</title>
-				<link>http://localhost:49304/tags/whistleblower/</link>
+				<link>http://localhost:1313/Blog/tags/whistleblower/</link>
 				<pubDate>Fri, 16 Jan 2026 02:20:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/whistleblower/</guid>
+				<guid>http://localhost:1313/Blog/tags/whistleblower/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>CyberWar</title>
-				<link>http://localhost:49304/tags/cyberwar/</link>
+				<link>http://localhost:1313/Blog/tags/cyberwar/</link>
 				<pubDate>Fri, 16 Jan 2026 02:10:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/cyberwar/</guid>
+				<guid>http://localhost:1313/Blog/tags/cyberwar/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>DigitalRights</title>
-				<link>http://localhost:49304/tags/digitalrights/</link>
+				<link>http://localhost:1313/Blog/tags/digitalrights/</link>
 				<pubDate>Fri, 16 Jan 2026 02:10:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/digitalrights/</guid>
+				<guid>http://localhost:1313/Blog/tags/digitalrights/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Surveillance</title>
-				<link>http://localhost:49304/tags/surveillance/</link>
+				<link>http://localhost:1313/Blog/tags/surveillance/</link>
 				<pubDate>Fri, 16 Jan 2026 02:10:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/surveillance/</guid>
+				<guid>http://localhost:1313/Blog/tags/surveillance/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>XKeyscore</title>
-				<link>http://localhost:49304/tags/xkeyscore/</link>
+				<link>http://localhost:1313/Blog/tags/xkeyscore/</link>
 				<pubDate>Fri, 16 Jan 2026 02:10:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/xkeyscore/</guid>
+				<guid>http://localhost:1313/Blog/tags/xkeyscore/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Iran</title>
-				<link>http://localhost:49304/tags/iran/</link>
+				<link>http://localhost:1313/Blog/tags/iran/</link>
 				<pubDate>Fri, 16 Jan 2026 02:00:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/iran/</guid>
+				<guid>http://localhost:1313/Blog/tags/iran/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Malware</title>
-				<link>http://localhost:49304/tags/malware/</link>
+				<link>http://localhost:1313/Blog/tags/malware/</link>
 				<pubDate>Fri, 16 Jan 2026 02:00:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/malware/</guid>
+				<guid>http://localhost:1313/Blog/tags/malware/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Natanz</title>
-				<link>http://localhost:49304/tags/natanz/</link>
+				<link>http://localhost:1313/Blog/tags/natanz/</link>
 				<pubDate>Fri, 16 Jan 2026 02:00:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/natanz/</guid>
+				<guid>http://localhost:1313/Blog/tags/natanz/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>OperationOlympicGames</title>
-				<link>http://localhost:49304/tags/operationolympicgames/</link>
+				<link>http://localhost:1313/Blog/tags/operationolympicgames/</link>
 				<pubDate>Fri, 16 Jan 2026 02:00:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/operationolympicgames/</guid>
+				<guid>http://localhost:1313/Blog/tags/operationolympicgames/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>SiemensPLC</title>
-				<link>http://localhost:49304/tags/siemensplc/</link>
+				<link>http://localhost:1313/Blog/tags/siemensplc/</link>
 				<pubDate>Fri, 16 Jan 2026 02:00:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/siemensplc/</guid>
+				<guid>http://localhost:1313/Blog/tags/siemensplc/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Stuxnet</title>
-				<link>http://localhost:49304/tags/stuxnet/</link>
+				<link>http://localhost:1313/Blog/tags/stuxnet/</link>
 				<pubDate>Fri, 16 Jan 2026 02:00:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/stuxnet/</guid>
+				<guid>http://localhost:1313/Blog/tags/stuxnet/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ZeroDay</title>
-				<link>http://localhost:49304/tags/zeroday/</link>
+				<link>http://localhost:1313/Blog/tags/zeroday/</link>
 				<pubDate>Fri, 16 Jan 2026 02:00:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/zeroday/</guid>
+				<guid>http://localhost:1313/Blog/tags/zeroday/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Anonimlik</title>
-				<link>http://localhost:49304/tags/anonimlik/</link>
+				<link>http://localhost:1313/Blog/tags/anonimlik/</link>
 				<pubDate>Fri, 16 Jan 2026 01:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/anonimlik/</guid>
+				<guid>http://localhost:1313/Blog/tags/anonimlik/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>DeepWeb</title>
-				<link>http://localhost:49304/tags/deepweb/</link>
+				<link>http://localhost:1313/Blog/tags/deepweb/</link>
 				<pubDate>Fri, 16 Jan 2026 01:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/deepweb/</guid>
+				<guid>http://localhost:1313/Blog/tags/deepweb/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>OnionRouting</title>
-				<link>http://localhost:49304/tags/onionrouting/</link>
+				<link>http://localhost:1313/Blog/tags/onionrouting/</link>
 				<pubDate>Fri, 16 Jan 2026 01:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/onionrouting/</guid>
+				<guid>http://localhost:1313/Blog/tags/onionrouting/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>SiberGüvenlik</title>
-				<link>http://localhost:49304/tags/siberg%C3%BCvenlik/</link>
+				<link>http://localhost:1313/Blog/tags/siberg%C3%BCvenlik/</link>
 				<pubDate>Fri, 16 Jan 2026 01:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/siberg%C3%BCvenlik/</guid>
+				<guid>http://localhost:1313/Blog/tags/siberg%C3%BCvenlik/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>TorProject</title>
-				<link>http://localhost:49304/tags/torproject/</link>
+				<link>http://localhost:1313/Blog/tags/torproject/</link>
 				<pubDate>Fri, 16 Jan 2026 01:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/torproject/</guid>
+				<guid>http://localhost:1313/Blog/tags/torproject/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>USNavy</title>
-				<link>http://localhost:49304/tags/usnavy/</link>
+				<link>http://localhost:1313/Blog/tags/usnavy/</link>
 				<pubDate>Fri, 16 Jan 2026 01:50:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/usnavy/</guid>
+				<guid>http://localhost:1313/Blog/tags/usnavy/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Apple</title>
-				<link>http://localhost:49304/tags/apple/</link>
+				<link>http://localhost:1313/Blog/tags/apple/</link>
 				<pubDate>Fri, 16 Jan 2026 01:40:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/apple/</guid>
+				<guid>http://localhost:1313/Blog/tags/apple/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>CipKrizi</title>
-				<link>http://localhost:49304/tags/cipkrizi/</link>
+				<link>http://localhost:1313/Blog/tags/cipkrizi/</link>
 				<pubDate>Fri, 16 Jan 2026 01:40:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/cipkrizi/</guid>
+				<guid>http://localhost:1313/Blog/tags/cipkrizi/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>MorrisChang</title>
-				<link>http://localhost:49304/tags/morrischang/</link>
+				<link>http://localhost:1313/Blog/tags/morrischang/</link>
 				<pubDate>Fri, 16 Jan 2026 01:40:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/morrischang/</guid>
+				<guid>http://localhost:1313/Blog/tags/morrischang/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>TeknolojiTarihi</title>
-				<link>http://localhost:49304/tags/teknolojitarihi/</link>
+				<link>http://localhost:1313/Blog/tags/teknolojitarihi/</link>
 				<pubDate>Fri, 16 Jan 2026 01:40:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/teknolojitarihi/</guid>
+				<guid>http://localhost:1313/Blog/tags/teknolojitarihi/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>TSMC</title>
-				<link>http://localhost:49304/tags/tsmc/</link>
+				<link>http://localhost:1313/Blog/tags/tsmc/</link>
 				<pubDate>Fri, 16 Jan 2026 01:40:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/tsmc/</guid>
+				<guid>http://localhost:1313/Blog/tags/tsmc/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Innovation</title>
-				<link>http://localhost:49304/tags/innovation/</link>
+				<link>http://localhost:1313/Blog/tags/innovation/</link>
 				<pubDate>Fri, 16 Jan 2026 01:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/innovation/</guid>
+				<guid>http://localhost:1313/Blog/tags/innovation/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>SteveJobs</title>
-				<link>http://localhost:49304/tags/stevejobs/</link>
+				<link>http://localhost:1313/Blog/tags/stevejobs/</link>
 				<pubDate>Fri, 16 Jan 2026 01:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/stevejobs/</guid>
+				<guid>http://localhost:1313/Blog/tags/stevejobs/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>SteveWozniak</title>
-				<link>http://localhost:49304/tags/stevewozniak/</link>
+				<link>http://localhost:1313/Blog/tags/stevewozniak/</link>
 				<pubDate>Fri, 16 Jan 2026 01:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/stevewozniak/</guid>
+				<guid>http://localhost:1313/Blog/tags/stevewozniak/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>TheWoz</title>
-				<link>http://localhost:49304/tags/thewoz/</link>
+				<link>http://localhost:1313/Blog/tags/thewoz/</link>
 				<pubDate>Fri, 16 Jan 2026 01:30:00 +0300</pubDate>
-				<guid>http://localhost:49304/tags/thewoz/</guid>
+				<guid>http://localhost:1313/Blog/tags/thewoz/</guid>
 				<description></description>
 			</item>
 	</channel>
